@@ -75,13 +75,14 @@ code {
 /* 	font-size: 60%; */
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: #eee;
 }
 
 p code {
 	position: absolute;
 	left: -11%;
 	font-size: 20px;
+	color: #eee;
 }
 
 
